@@ -1,3 +1,3 @@
 # Tribute-Page
 
-This is a tribute page dedicated to Elon Musk.
+This is a basic tribute page project dedicated to Elon Musk.
