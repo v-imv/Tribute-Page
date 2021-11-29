@@ -1,4 +1,4 @@
-# Tribute-Page
+# Tribute Page
 This is a basic tribute page dedicated to Elon Reeve Musk.
 
 You can see how it looks by clicking on "github-pages" under the heading "Environments".
